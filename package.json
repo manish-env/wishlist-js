@@ -1,0 +1,31 @@
+{
+  "name": "wishlist-cdn",
+  "version": "1.0.0",
+  "description": "A comprehensive wishlist management package for e-commerce applications",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "wishlist",
+    "ecommerce",
+    "shopify",
+    "shopping",
+    "favorites"
+  ],
+  "author": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manish-env/wishlist-js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/manish-env/wishlist-js/issues"
+  },
+  "homepage": "https://github.com/manish-env/wishlist-js#readme",
+  "dependencies": {},
+  "devDependencies": {},
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
