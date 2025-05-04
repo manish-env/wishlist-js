@@ -91,4 +91,7 @@ new Wishlist(config)
 
 ## License
 
+##CDN LINK
+<script src="https://cdn.jsdelivr.net/npm/wishlist-cdn@1.0.0/index.min.js"></script>
+
 MIT
